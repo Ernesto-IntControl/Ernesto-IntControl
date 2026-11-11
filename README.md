@@ -35,10 +35,12 @@ Ingénieur logiciel full-stack basé à **Kolwezi, RDC** 🇨🇩
   <br />
   <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,electron,vite&theme=dark" />
   <br />
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql,docker,git,github,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql,docker,git,github,postman,vercel&theme=dark" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
   <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black" />
@@ -70,10 +72,21 @@ SaaS de supervision multi-sites des ressources et du personnel pour les PME : ch
 Gestion scolaire de la maternelle au secondaire : inscriptions, notes et bulletins, présences, frais scolaires, portail parents.
 
 ### 💳 IntFlow
-Suivi et transparence des paiements académiques pour les établissements.
+Suivi et transparence des paiements académiques pour les établissements. API REST en architecture **Controller – Service – Repository**.
 
-### 🌐 Sites vitrines
-Sites et portfolios pour des entreprises et des créatifs, dont le site **Elzor**.
+<img src="https://skillicons.dev/icons?i=react,cs,dotnet,mysql,postman,visualstudio" height="34" />
+<br />
+<img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
+<img src="https://img.shields.io/badge/Aiven-FF3554?style=flat-square&logo=aiven&logoColor=white" />
+
+### 🌐 Elzor
+Site vitrine moderne et responsive pour renforcer la présence en ligne de l'entreprise.
+
+<img src="https://skillicons.dev/icons?i=nextjs,tailwind,vercel" height="34" />
+<br />
+<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" />
 
 <br />
 
