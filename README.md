@@ -1,124 +1,116 @@
-<h1 align="center">👋 Bonjour, je suis Ernest (IntControl)</h1>
-<h3 align="center">Lead Software Engineer @ JOSAR Technology & Industry · Fondateur d'INT GLOBAL SERVICES</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:04213e,100:00F7FF&height=200&section=header&text=Ernest%20Katumbi&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Lead%20Software%20Engineer%20%C2%B7%20Fondateur%20d'INT%20GLOBAL%20SERVICES&descSize=16&descAlignY=58&animation=fadeIn" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Lead+Software+Engineer;Full-Stack+TypeScript+%C2%B7+NestJS+%C2%B7+Next.js;Apps+offline-first+%26+SaaS+m%C3%A9tier;Con%C3%A7u+pour+le+march%C3%A9+africain" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+TypeScript+%C2%B7+NestJS+%C2%B7+Next.js;Apps+offline-first+%26+SaaS+m%C3%A9tier;Con%C3%A7u+%C3%A0+Kolwezi%2C+pens%C3%A9+pour+l'Afrique" />
 </p>
 
 <p align="center">
   <a href="https://intcontrol-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" /></a>
   <a href="mailto:katumbuernest@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ernest-katumbu-b87aa7265"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Ernesto-IntControl&style=for-the-badge&color=04213e&label=VISITES" />
 </p>
 
----
+<br />
 
-## 🚀 À propos de moi
+## 🚀 À propos
 
-Ingénieur logiciel full-stack basé à **Kolwezi (RDC)**. Je dirige le **Département Développement & Produits Numériques** de **JOSAR Technology & Industry** : architecture, validation technique des livrables, déploiements et publication sur les stores, avec une petite équipe de développeurs.
+<img align="right" src="https://skillicons.dev/icons?i=nestjs,nextjs,postgres,ts&perline=2" width="130" />
 
-En parallèle, j'ai fondé **INT GLOBAL SERVICES**, aujourd'hui le bras technique de JOSAR, où je conçois des **SaaS métier** pensés pour les réalités locales : connexion instable, utilisateurs peu habitués au numérique, paiement par mobile money.
+Ingénieur logiciel full-stack basé à **Kolwezi, RDC** 🇨🇩
 
-Ce qui guide mon travail :
+- 🧭 Je dirige le **Département Développement & Produits Numériques** de **JOSAR Technology & Industry**
+- 🏢 Fondateur d'**INT GLOBAL SERVICES**, bras technique de JOSAR
+- 🎓 Étudiant en génie logiciel
+- 💡 Je conçois des **SaaS métier** adaptés au terrain : connexion instable, utilisateurs peu habitués au numérique, paiement par mobile money
 
-* **Offline-first** quand le terrain l'exige, avec synchronisation cloud
-* **Architecture propre et typée de bout en bout** (monorepo TypeScript, domaine partagé)
-* **Documenter avant de coder** : règles métier, cadrage, sprints Scrum
-* **Une UX simple** pour des utilisateurs non techniques
+> *« Documenter avant de coder, typer de bout en bout, simplifier pour l'utilisateur final. »*
 
-Étudiant en génie logiciel (Bac 3).
-
----
+<br />
 
 ## 🧰 Stack technique
 
-**Langages**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,cs,nodejs,nestjs,graphql,dotnet&theme=dark" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,electron,vite&theme=dark" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql,docker,git,github,vercel&theme=dark" />
+</p>
 
-**Backend**
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET_Web_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black" />
+  <img src="https://img.shields.io/badge/Offline--first-04213e?style=flat-square" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-04213e?style=flat-square" />
+  <img src="https://img.shields.io/badge/Scrum-04213e?style=flat-square" />
+</p>
 
-**Frontend, desktop & mobile**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-**Bases de données & ORM**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Outils & déploiement**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)
-![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)
-
----
+<br />
 
 ## 📌 Projets
 
-### 🛒 Josar Management · *V1 en production, V2 en développement*
-Logiciel de gestion commerciale et de point de vente (POS) **offline-first** pour boutiques et supermarchés, avec synchronisation cloud.
-`Monorepo TypeScript` · `Electron` · `React` · `NestJS` · `SQLite` · `PostgreSQL` · `Drizzle ORM`
+### 🛒 Josar Management
+Gestion commerciale et point de vente **offline-first** pour boutiques et supermarchés, avec synchronisation cloud.
 
-### 🚗 Madebocar · *disponible sur le Play Store*
-Application de VTC à Kolwezi : commande de course (y compris pour un tiers), tarif selon la distance, notation du chauffeur, paiement mobile money, carte ou portefeuille. J'en ai supervisé l'audit (sécurité, performance, conformité stores) et la mise en production.
-`React Native` · `Expo` · `NestJS` · `PostgreSQL` · `Drizzle ORM`
+<img src="https://skillicons.dev/icons?i=ts,electron,react,nestjs,sqlite,postgres" height="34" />
 
-### 🏗️ Simara · *prototype fonctionnel*
-SaaS de supervision multi-sites des ressources et du personnel pour les PME (BTP, logistique) : chantiers, présences, contrats, affectations, ressources et documents, avec des tableaux de bord par rôle (RBAC).
-`React` · `Vite` · `Tailwind CSS`
+### 🚗 Madebocar
+Application de VTC à Kolwezi : commande de course (y compris pour un tiers), tarif selon la distance, notation du chauffeur, paiement mobile money, carte ou portefeuille.
 
-### 🎓 IntSchool · *en conception*
-Système de gestion scolaire de la maternelle au secondaire : inscriptions, notes et bulletins, présences, frais scolaires, portail parents. Architecture modulaire en 24 modules.
+<img src="https://skillicons.dev/icons?i=ts,react,nestjs,postgres" height="34" />
+
+### 🏗️ Simara
+SaaS de supervision multi-sites des ressources et du personnel pour les PME : chantiers, présences, contrats, affectations, ressources et documents, avec des tableaux de bord par rôle.
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind" height="34" />
+
+### 🎓 IntSchool
+Gestion scolaire de la maternelle au secondaire : inscriptions, notes et bulletins, présences, frais scolaires, portail parents.
 
 ### 💳 IntFlow
-Suivi et transparence des paiements académiques : digitalise et structure les opérations financières des établissements.
+Suivi et transparence des paiements académiques pour les établissements.
 
-### 🌐 Autres réalisations
-Sites vitrines et portfolios pour des entreprises et des créatifs (dont le site **Elzor**).
+### 🌐 Sites vitrines
+Sites et portfolios pour des entreprises et des créatifs, dont le site **Elzor**.
 
----
+<br />
 
-## 📊 Statistiques GitHub
+## 📊 Activité GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ernesto-IntControl&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ernesto-IntControl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ernesto-IntControl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" />
 </p>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ernesto-IntControl&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Ernesto-IntControl&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ernesto-IntControl&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ernesto-IntControl&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=ffffff" />
 </p>
 
----
+<br />
 
-## 🎯 En ce moment
+## 🎯 Ce qui m'anime
 
-* 🔨 Je construis la V2 de **Josar Management**
-* 📱 Je stabilise **Madebocar** en production
-* 🧭 Je structure les processus du département (Engineering Playbook, livraison en Scrum)
-* 🤖 J'explore les assistants de code IA en local
+- ⚙️ Des systèmes backend robustes et évolutifs
+- 📶 Des applications qui fonctionnent même sans connexion
+- 🧑🏾‍💻 Des interfaces simples pour tous les publics
+- 🤖 L'IA au service de la productivité des développeurs
 
----
+<br />
 
 ## 📫 Me contacter
 
-Ouvert aux collaborations, missions freelance et projets à impact en Afrique.
+<p align="center">
+  Ouvert aux collaborations, missions freelance et projets à impact en Afrique.
+  <br /><br />
+  <a href="mailto:katumbuernest@gmail.com"><img src="https://img.shields.io/badge/katumbuernest@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ernest-katumbu-b87aa7265"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://intcontrol-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-04213e?style=flat-square&logo=vercel&logoColor=white" /></a>
+</p>
 
-📧 **katumbuernest@gmail.com**
-💼 [LinkedIn](https://www.linkedin.com/in/ernest-katumbu-b87aa7265)
-🌐 [Portfolio](https://intcontrol-portfolio.vercel.app)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:04213e&height=120&section=footer" width="100%" />
