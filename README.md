@@ -20,7 +20,7 @@
 Ingénieur logiciel full-stack basé à **Kolwezi, RDC** 🇨🇩
 
 - 🧭 Je dirige le **Département Développement & Produits Numériques** de **JOSAR Technology & Industry**
-- 🏢 Fondateur d'**INT GLOBAL SERVICES**, bras technique de JOSAR
+- 🏢 Fondateur d'**INT GLOBAL SERVICES**
 - 🎓 Étudiant en génie logiciel
 - 💡 Je conçois des **SaaS métier** adaptés au terrain : connexion instable, utilisateurs peu habitués au numérique, paiement par mobile money
 
